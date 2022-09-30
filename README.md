@@ -2,7 +2,10 @@
 
 <h1>Make your first Contribution.!  </h1>
 
-![forthebadge](https://forthebadge.com/images/badges/open-source.svg)
+![image](https://user-images.githubusercontent.com/72541381/193202611-e8445f09-879a-4eff-951b-5f7964f7db43.png)
+
+
+
 
 <h2> ❓ What To Do </h2>
 <ul><li>Add your name with profile link (as per markdown) in the <code>Contributors.md</code> file to make your first pull request 🚀</li></ul>
@@ -63,4 +66,7 @@
 Wait for your submission to be accepted and your PR to be merged by a maintainer.
 
 --- 
+
+![forthebadge](https://forthebadge.com/images/badges/open-source.svg)
+
 Show some ❤️ by starring this repository✨
